@@ -3,6 +3,8 @@
 This repository contains the source for the .NET API Reference toolchain ([used
  by docs.microsoft.com](https://docs.microsoft.com/en-us/teamblog/announcing-unified-dotnet-experience-on-docs#built-with-open-source-in-mind)) 
 
+test
+
 ## Contribution Guide
 
 You can read the [contribution guide](CONTRIBUTING.md) for information about coding standards, and (perhaps most importantly), information about writing [unit and integration tests](CONTRIBUTING.md#tests).
